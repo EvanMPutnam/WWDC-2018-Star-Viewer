@@ -94,8 +94,10 @@ class SpaceViewController: UIViewController{
 
 }
 
+print("Got here")
 let spaceView = SpaceViewController()
 PlaygroundPage.current.liveView = spaceView
+print("Got here2")
 
 
 
