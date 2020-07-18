@@ -13,7 +13,7 @@ This project was my first real introduction to the apple ecosystem, beyond writi
 
 
 ## Example
-![Image of App](Images/star1.png)
+![Image of App](Images/star1.PNG)
 
 ## How to Run
 In order to run the application you will need an iPad that supports AR and playgrounds.  Then you can just download this repository and air drop the .playground 'file' to your iPad.  You may be able to transfer it over via email if you don't have a mac to air drop.
