@@ -1,5 +1,5 @@
 # WWDC-2018-Star-Viewer
-This is an application I wrote that won a 2018 WWDC Scholarship from Apple.  Each year Apple hosts a developer competition for students where they can create a swift playground application and submit it for the chance to win a ticket to their world wide developer conference.  They get thousands of submissions each year and select the best 250 as the winners.  My app was an augmented reality view of the stellar items present in the milky way.
+This is an old application I wrote that won a 2018 WWDC Scholarship from Apple.  Each year Apple hosts a developer competition for students where they can create a swift playground application and submit it for the chance to win a ticket to their world wide developer conference.  They get thousands of submissions each year and select the best 250 as the winners.  My app was an augmented reality view of the stellar items present in the milky way.  The quality of the code here is not
 
 ## Data
 All data is from a collection of real stellar objects and comes from the HYG Star Database.  This database combines three seperate archives of stars and is downloaded as a .csv file.  A striped out version of that .csv file exists within this repo.
